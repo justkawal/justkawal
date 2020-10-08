@@ -9,6 +9,6 @@
   - [Protect](https://github.com/justkawal/protect)
   - [AnimatedText](https://github.com/justkawal/animated_text)
   - [Arb_Translator](https://github.com/justkawal/arb_translator)
-- 🌱 I’m currently developing libraries [flutter](https://flutter.dev/)
+- 🌱 I’m currently developing libraries for [flutter](https://flutter.dev/)
 - 📫 How to reach me: ![Email: justkawal(contact@kawal.dev)]
 - ⚡ Fun fact: I'll not tell.
