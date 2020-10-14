@@ -12,3 +12,4 @@
 - 🌱 I’m currently developing libraries for [flutter](https://flutter.dev/)
 - 📫 How to reach me: ![Email: justkawal(contact@kawal.dev)]
 - ⚡ Fun fact: I'll not tell.
+- ~ Long Live Open S🔥 urce
