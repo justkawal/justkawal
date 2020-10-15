@@ -3,13 +3,13 @@
 ### Hi there I'm Kawal 👋
 
 
-- 🔭 I’m currently working on [null](https://github.com/justkawal/excel)
-- 🤔 Flutter plugins created:
+- I’m currently working on [null](https://github.com/justkawal/excel)
+- Flutter plugins created:
   - [Excel](https://github.com/justkawal/excel)
   - [Protect](https://github.com/justkawal/protect)
   - [AnimatedText](https://github.com/justkawal/animated_text)
   - [Arb_Translator](https://github.com/justkawal/arb_translator)
-- 🌱 I’m currently developing libraries for [flutter](https://flutter.dev/)
-- 📫 How to reach me: ![Email: justkawal(contact@kawal.dev)]
-- ⚡ Fun fact: I'll not tell.
-- ~ Long Live Open S🔥 urce
+- I’m currently developing libraries for [flutter](https://flutter.dev/)
+- How to reach me: ![Email: justkawal(contact@kawal.dev)]
+- ⚡ Fun fact:   **I'll not tell.**
+- ⚡ Long Live Open S🔥 urce
