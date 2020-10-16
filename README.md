@@ -8,7 +8,7 @@
   - [Excel](https://github.com/justkawal/excel)  (**Create, Read and Edit excel files**)
   - [Protect](https://github.com/justkawal/protect)  (**Password Protect excel files**)
   - [AnimatedText](https://github.com/justkawal/animated_text)  (**Animate between words**)
-  - [Arb_Translator](https://github.com/justkawal/arb_translator)  (**Translate large arb files in one click**)
+  - [Arb_Translator](https://github.com/justkawal/arb_translator)  (**Translate large arb files**)
 - I’m currently developing libraries for [flutter community](https://flutter.dev/)
 - Reach me: contact@kawal.dev
 - ⚡ Fun fact:   **I'll not tell.**
