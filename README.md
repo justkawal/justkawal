@@ -3,7 +3,7 @@
 ### Hi there I'm Kawal 👋
 
 
-- I’m currently working on [null](https://github.com/justkawal/excel), this covid **😞**
+- I’m currently working on [null](https://github.com/justkawal/excel)
 - Flutter plugins created:
   - [Excel](https://github.com/justkawal/excel)  (**Create, Read and Edit excel files**)
   - [Protect](https://github.com/justkawal/protect)  (**Password Protect excel files**)
