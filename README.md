@@ -15,3 +15,6 @@
 - Reach me: contact@kawal.dev
 - ⚡ Fun fact:   **I'll not tell.**
 - ⚡ Long Live Open S🔥 urce
+
+<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkawal&layout=compact&theme=dark" /></p>
+
