@@ -16,5 +16,5 @@
 - ⚡ Fun fact:   **I'll not tell.**
 - ⚡ Long Live Open S🔥 urce
 
-<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkawal&layout=compact&theme=dark" /></p>
+<p align="right"><img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkawal&layout=compact&theme=dark" /></p>
 
