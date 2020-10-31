@@ -9,8 +9,9 @@
   - [Protect](https://github.com/justkawal/protect)  (**Password Protect excel files**)
   - [AnimatedText](https://github.com/justkawal/animated_text)  (**Animate between words**)
   - [Arb_Translator](https://github.com/justkawal/arb_translator)  (**Translate large arb files**)
-  - [metadata](https://github.com/justkawal/metadata)  (**metadata helps to extract metadata from files**)
+  - [metadata](https://github.com/justkawal/metadata)  (**metadata helps to extract metadata from images.**)
   - [amount](https://github.com/justkawal/amount)  (**amount helps to convert numerical amount to word**)
+  - [xmp](https://github.com/justkawal/xmp)  (**xmp modules helps to extract XMP data from images.**)
 - I’m currently developing libraries for [flutter community](https://flutter.dev/)
 - Reach me: contact@kawal.dev
 - ⚡ Fun fact:   **I'll not tell.**
