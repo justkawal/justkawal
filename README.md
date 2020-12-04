@@ -12,6 +12,7 @@
   - [metadata](https://github.com/justkawal/metadata)  (**metadata helps to extract metadata from images.**)
   - [amount](https://github.com/justkawal/amount)  (**amount helps to convert numerical amount to word**)
   - [xmp](https://github.com/justkawal/xmp)  (**xmp modules helps to extract XMP data from images.**)
+  - [dhash](https://github.com/justkawal/dhash)  (**dhash modules helps to check similarity between images**)
 - I’m currently developing libraries for [flutter community](https://flutter.dev/)
 - Reach me: contact@kawal.dev
 - ⚡ Fun fact:   **I'll not tell.**
