@@ -3,7 +3,7 @@
 ### Hi there I'm Kawal 👋
 
 
-- I’m currently working on [null](https://github.com/justkawal/excel)
+- Incoming Software-Engineer in **TCS**
 - Flutter packages created:
   - [Excel](https://github.com/justkawal/excel)  (**Create, Read and Edit excel files**)
   - [Protect](https://github.com/justkawal/protect)  (**Password Protect excel files**)
@@ -13,7 +13,6 @@
   - [amount](https://github.com/justkawal/amount)  (**amount helps to convert numerical amount to word**)
   - [xmp](https://github.com/justkawal/xmp)  (**xmp modules helps to extract XMP data from images.**)
   - [dhash](https://github.com/justkawal/dhash)  (**dhash modules helps to check similarity between images**)
-- I’m currently developing libraries for [flutter community](https://flutter.dev/)
 - Reach me: contact@kawal.dev
 - ⚡ Fun fact:   **I'll not tell.**
 - ⚡ Long Live Open S🔥 urce
