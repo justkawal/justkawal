@@ -2,8 +2,8 @@
 
 ### Hi there, I'm Kawal 👋
 
-
 - Incoming Software-Engineer in **TCS**
+
 - Flutter packages created:
   - [Excel](https://github.com/justkawal/excel)  (**Create, Read and Edit excel files**)
   - [Protect](https://github.com/justkawal/protect)  (**Password Protect excel files**)
@@ -18,7 +18,6 @@
 
 - Reach me: contact@kawal.dev
 - ⚡ Fun fact:   **I'll not tell.**
-- ⚡ Long Live Open S🔥 urce
+- ⚡ Long Live Open S🔥urce
 
 <p align="right"><img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkawal&layout=compact&theme=dark" /></p>
-
