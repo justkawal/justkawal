@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Kawal 👋
 
-- Incoming Software-Engineer in **TCS**
+- Open Source Software-Engineer
 
 - Flutter packages created:
   - [Excel](https://github.com/justkawal/excel)  (**Create, Read and Edit excel files**)
