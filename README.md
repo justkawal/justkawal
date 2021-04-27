@@ -2,7 +2,7 @@
 
 - I'm a Freelancer Flutter Developer at [Inovatso](https://inovatso.com.br), working remotely from India.
 - 🔭 In my free time I’m currently working on the [excel library](https://github.com/justkawal/excel)
-- 🚄 Open Source Flutter Developer, **(Looking forward to move to Australia)**
+- 🚄 Open Source Flutter Developer, **(Looking forward to move overseas)**
 - 💬 Reach me: contact@kawal.dev
 - ⚡ Long Live Open S🔥urce
 - **At week-ends I spent my half day at barbecues / KFC, I hope you would donate So, I would eat some.**
