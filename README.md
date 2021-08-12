@@ -6,6 +6,13 @@
 - 💬 Reach me: contact@kawal.dev
 - ⚡ Long Live Open S🔥urce
 - **At week-ends I spent my half day at barbecues / KFC, I hope you would donate So, I would eat some.**
+- 
+### Github Stats
+
+<p>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=justkawal&count_private=true&show_icons=true&layout=compact&theme=default"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkawal&layout=compact&theme=default" /></p>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ### Open Source Projects
 
@@ -16,7 +23,3 @@
 [![Metadata](https://github-readme-stats.vercel.app/api/pin/?username=justkawal&theme=default&repo=metadata)](https://github.com/justkawal/metadata)
 [![Arb Translator](https://github-readme-stats.vercel.app/api/pin/?username=justkawal&theme=default&repo=arb_translator)](https://github.com/justkawal/arb_translator)
 
-### Github Stats
-
-<p>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=justkawal&count_private=true&show_icons=true&layout=compact&theme=default"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkawal&layout=compact&theme=default" /></p>
