@@ -5,7 +5,6 @@
 - 🚄 Open Source Flutter Developer
 - 💬 Reach me: contact@kawal.dev
 - ⚡ Long Live Open S🔥urce
-- 
 ### Github Stats
 
 <p>
