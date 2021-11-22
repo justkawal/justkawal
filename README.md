@@ -1,6 +1,6 @@
 ### Hi there, I'm Kawal 👋
 
-- ✅ Open for position of Flutter App Developer.
+- ✅ Your friendly Flutter App Developer.
 - 🔭 In my free time I’m currently working on the [excel library](https://github.com/justkawal/excel)
 - 🚄 Open Source Flutter Developer
 - 💬 Reach me: contact@kawal.dev
