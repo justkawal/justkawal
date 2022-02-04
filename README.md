@@ -1,16 +1,19 @@
 ### Hi there, I'm Kawal 👋
 
-- ✅ Your friendly Flutter App Developer.
-- 🔭 In my free time I’m currently working on the [excel library](https://github.com/justkawal/excel)
-- 🚄 Open Source Flutter Developer
+- ✅ Your friendly Flutter Developer.
+- 🔭 In my free time I’m currently working on [excel](https://github.com/justkawal/excel)
+- 🚄 Flutter Developer at Rankanizer.
 - 💬 Reach me: contact@kawal.dev
 - ⚡ Long Live Open S🔥urce
-### Github Stats
 
+<p align="center">❄️👀<br>
+<img alt="Profile View" src="https://gpvc.arturio.dev/justkawal" />
+</p>
+
+### Github Stats
 <p>
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=justkawal&count_private=true&show_icons=true&layout=compact&theme=default"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkawal&layout=compact&theme=default" /></p>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ### Open Source Projects
 
