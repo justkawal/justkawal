@@ -1,7 +1,7 @@
 ### Hi there, I'm Kawal 👋
 
 - ✅ Your friendly Flutter Developer.
-- 🔭 In my free time I’m currently working on [excel](https://github.com/justkawal/excel)
+- 🔭 In my free time I’m maintaining [excel](https://github.com/justkawal/excel) with community.
 - 🚄 Flutter Developer at Rankanizer.
 - 💬 Reach me: kawal741536@gmail.com
 - ⚡ Long Live Open S🔥urce
