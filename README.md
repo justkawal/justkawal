@@ -3,7 +3,7 @@
 - ✅ Your friendly Flutter Developer.
 - 🔭 In my free time I’m currently working on [excel](https://github.com/justkawal/excel)
 - 🚄 Flutter Developer at Rankanizer.
-- 💬 Reach me: contact@kawal.dev
+- 💬 Reach me: kawal741536@gmail.com
 - ⚡ Long Live Open S🔥urce
 
 <p align="center">❄️👀<br>
