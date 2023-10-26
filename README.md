@@ -2,7 +2,7 @@
 
 - ✅ Your friendly Flutter Developer.
 - 🔭 In my free time I’m maintaining [excel](https://github.com/justkawal/excel) and [polkadart](https://github.com/rankanizer/polkadart)
-- 💬 Reach me: kawal741536@gmail.com
+- 💬 Reach me: Canada
 - ⚡ Long Live Open S🔥urce
 
 <p align="center">❄️👀<br>
