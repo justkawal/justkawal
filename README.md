@@ -1,7 +1,7 @@
 ### Hi there, I'm Kawal 👋
 
 - ✅ Your friendly Flutter Developer.
-- 🔭 In my free time, I make tools for Flutter Devs to mkae their life easy and maintaining [polkadart](https://github.com/rankanizer/polkadart)
+- 🔭 In my free time, I make tools for Flutter Devs to bake (I mean make) their life easy and maintaining [polkadart](https://github.com/rankanizer/polkadart)
 - 💬 Reach me: kawal741536@gmail.com
 - ⚡ Long Live Open S🔥urce
 
