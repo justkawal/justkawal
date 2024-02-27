@@ -1,6 +1,7 @@
 ### Hi there, I'm Kawal 👋
 
 - ✅ Flutter Developer.
+- 🔍 I'm currently looking for job. If you have one for me, ping me, Haha. Thanks!! Much appreciated.
 - 🔭 Developing Flutter tools / libraries to make developer's life easy.
 - ♾️ Maintaining [excel](https://github.com/justkawal/excel) and [polkadart](https://github.com/leonardocustodio/polkadart)
 - 💬 Reach me: kawal741536@gmail.com
